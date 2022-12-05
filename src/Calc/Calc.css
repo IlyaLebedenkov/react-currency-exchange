@@ -1,0 +1,14 @@
+.input-amount-currency{
+    margin-right: 20px;
+    height: 30px;
+    border-radius: 5px;
+}
+.select-currency{
+    margin-right: 20px;
+    width: 80px;
+    height: 35px;
+    border-radius: 5px;
+}
+.send-button{
+    height: 35px;
+}
